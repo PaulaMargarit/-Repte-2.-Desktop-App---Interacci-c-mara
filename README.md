@@ -1,1 +1,1 @@
-# -Repte-2.-Desktop-App---Interacci-c-mara
+# Repte 2. Desktop App Interacció càmera
