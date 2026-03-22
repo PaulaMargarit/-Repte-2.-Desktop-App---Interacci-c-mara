@@ -15,8 +15,8 @@ L’usuari es trobarà amb una primera pantalla inicial amb un botó per iniciar
 - Freepik i Flaticon (imatges)
 - Pixabay (àudio)
 
-#Autor
+# Autor
 Projecte realitzat per Paula Margarit Corominas
 
-#Llicència 
+# Llicència 
 Aquest projecte està publicat sota la llicència MIT.
