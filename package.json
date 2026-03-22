@@ -1,0 +1,14 @@
+{
+  "name": "r2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Paula Margarit",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^41.0.3"
+  }
+}
